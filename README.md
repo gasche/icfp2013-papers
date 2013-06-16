@@ -1,3 +1,10 @@
+ICFP is the [International Conference on Functional Programming](http://icfpconference.org/).
+The 2013 edition will take place in Boston, from September 25 to September 27.
+
+The list of accepted papers was published [here](http://icfpconference.org/icfp2013/accepted.html). The present page tries to gather preprint links and complementary information; please do not hesitate to submit issues or pull requests.
+
+(See [here](https://github.com/technogeeky/icfp12-paper-links) for a similar page for ICFP'12)
+
 - "Wellfounded Recursion with Copatterns: A Unified Approach to Termination and Productivity"  
   ([paper](http://www.cs.mcgill.ca/~bpientka/papers/icfp13.pdf))
   ([long version](http://www.tcs.ifi.lmu.de/~abel/icfp13-long.pdf)),  
