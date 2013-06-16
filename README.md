@@ -116,6 +116,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Harry Mairson
 
 - "Optimising Purely Functional GPU Programs"  
+  ([paper](http://www.cse.unsw.edu.au/~chak/papers/acc-optim.pdf))
+  ([webpage](http://www.cse.unsw.edu.au/~chak/papers/MCKL13.html)),  
   by Trevor L. McDonell, Manuel Chakravarty, Gabriele Keller and Ben Lippmeier
 
 - "A Short Cut to Parallelization Theorems"  
