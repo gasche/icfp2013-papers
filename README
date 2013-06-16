@@ -1,40 +1,60 @@
 - "Wellfounded Recursion with Copatterns: A Unified Approach to Termination and Productivity"  
+  ([paper](http://www.cs.mcgill.ca/~bpientka/papers/icfp13.pdf))
+  ([long version](http://www.tcs.ifi.lmu.de/~abel/icfp13-long.pdf)),  
   by Andreas Abel and Brigitte Pientka
 
 - "Productive Coprogramming with Guarded Recursion"  
+  ([paper](http://bentnib.org/productive.pdf))
+  ([webpage](http://bentnib.org/posts/2013-03-29-productive-coprogramming.html)),  
   by Robert Atkey and Conor McBride
 
 - "Using Circular Programs for Higher-Order Syntax [Functional Pearl]"  
+  ([paper](http://www.cse.chalmers.se/~emax/documents/axelsson2013using_DRAFT.pdf)),  
   by Emil Axelsson and Koen Claessen
 
 - "Weak Optimality, and the Meaning of Sharing"  
+  (no preprint found),  
   by Thibaut Balabonski
 
 - "Efficient Divide-and-Conquer Parsing of Practical Context-Free Languages"  
+  ([paper](http://www.cse.chalmers.se/~bernardy/PP.pdf)),  
   by Jean-Philippe Bernardy and Koen Claessen
 
 - "Type-Theory In Color"  
+  ([paper](http://www.cse.chalmers.se/~bernardy/CCCC.pdf)),  
   by Jean-Philippe Bernardy and Guilhem Moulin
 
 - "Programming and Reasoning with Algebraic Effects and Dependent Types"  
+  ([paper](http://www.cs.st-andrews.ac.uk/~eb/drafts/effects.pdf))
+  ([webpage](http://edwinb.wordpress.com/2013/03/28/programming-and-reasoning-with-algebraic-effects-and-dependent-types/)),  
    by Edwin Brady
 
 - "C-SHORe: A Collapsible Approach to Verifying Higher-Order Programs"  
+  ([long version](http://www.cs.rhul.ac.uk/~hague/files/papers/icfp13-long.pdf)),  
   by Christopher Broadbent, Arnaud Carayol, Matthew Hague and Olivier Serre
 
 - "A Practical Theory of Language-Integrated Query"  
+  ([paper](http://homepages.inf.ed.ac.uk/jcheney/linq/linq.pdf))
+  ([webpage](http://homepages.inf.ed.ac.uk/jcheney/linq/)),  
   by James Cheney, Sam Lindley and Philip Wadler
 
 - "The Bedrock Structured Programming System: Combining Generative Metaprogramming and Hoare Logic in an Extensible Program Verifier"  
+  (no preprint found)
+  ([webpage](http://adam.chlipala.net/papers/BedrockICFP13/)),  
   by Adam Chlipala
 
 - "Modular Monadic Meta-Theory"  
+  ([paper](http://ropas.snu.ac.kr/%7Ebruno/papers/3MT.pdf))
+  ([webpage](http://www.cs.utexas.edu/~bendy/3MT/)),  
   by Benjamin Delaware, Steven Keuchel, Tom Schrijvers and Bruno Oliveira
 
 - "Hoare-Style Reasoning with (Algebraic) Continuations"  
+  ([paper](http://software.imdea.org/~germand/pubs/httcc-ext.pdf))
+  ([webpage](http://software.imdea.org/~germand/HTTcc/)),  
   by Germán Andrés Delbianco and Aleksandar Nanevski
 
 - "Typed Syntactic Meta-programming"  
+  (no preprint found),  
   by Dominique Devriese and Frank Piessens
 
 - "Fun with Semirings" [Functional Pearl]  
