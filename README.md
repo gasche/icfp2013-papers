@@ -155,22 +155,33 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Manfred Schmidt-Schauss and David Sabel
 
 - "The Constrained-Monad Problem"  
+  ([paper](http://www.ittc.ku.edu/~neil/papers_and_talks/constrained-monad-problem.pdf))
+  ([webpage](http://www.ittc.ku.edu/csdl/fpg/papers/Sculthorpe-13-ConstrainedMonad.html)),  
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill
 
 - "Applying Random Testing to a Base Type Environment" [Experience Report]  
+  (no preprint found),  
   by Vincent St-Amour and Neil Toronto
 
 - "Simple and Compositional Reification of Monadic Embedded Languages" [Functional Pearl]  
+  (no preprint found),  
   by Josef Svenningsson and Bo Joel Svensson
 
 - "Verified Decision Procedures for MSO on Words Based on Derivatives of Regular Expressions" [Functional Pearl]  
+  ([paper](http://home.in.tum.de/~traytel/papers/mso/mso.pdf))
+  ([webpage](http://home.in.tum.de/~traytel/papers/mso/index.html)),  
   by Dmitriy Traytel and Tobias Nipkow
 
 - "Unifying Refinement and Hoare-Style Reasoning in a Logic for Higher-Order Concurrency"  
+  ([paper](http://www.mpi-sws.org/~turon/caresl/caresl.pdf))
+  ([technical appendix](http://www.mpi-sws.org/~turon/caresl/appendix.pdf)),  
   by Aaron Turon, Derek Dreyer and Lars Birkedal
 
 - "Towards Dependently Typed Haskell: System FC with Kind Equality"  
+  ([paper](http://www.cis.upenn.edu/~eir/papers/2013/fckinds/fckinds.pdf)),  
   by Stephanie Weirich, Justin Hsu and Richard A. Eisenberg
 
 - "Mtac: A Monad for Typed Tactic Programming in Coq"  
+  ([paper](http://www.mpi-sws.org/~beta/mtac/mtac.pdf))
+  ([webpage](http://www.mpi-sws.org/~beta/mtac/)),  
   by Beta Ziliani, Derek Dreyer, Neelakantan Krishnaswami, Aleksandar Nanevski and Viktor Vafeiadis
