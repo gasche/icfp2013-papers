@@ -1,0 +1,119 @@
+- "Wellfounded Recursion with Copatterns: A Unified Approach to Termination and Productivity"  
+  by Andreas Abel and Brigitte Pientka
+
+- "Productive Coprogramming with Guarded Recursion"  
+  by Robert Atkey and Conor McBride
+
+- "Using Circular Programs for Higher-Order Syntax [Functional Pearl]"  
+  by Emil Axelsson and Koen Claessen
+
+- "Weak Optimality, and the Meaning of Sharing"  
+  by Thibaut Balabonski
+
+- "Efficient Divide-and-Conquer Parsing of Practical Context-Free Languages"  
+  by Jean-Philippe Bernardy and Koen Claessen
+
+- "Type-Theory In Color"  
+  by Jean-Philippe Bernardy and Guilhem Moulin
+
+- "Programming and Reasoning with Algebraic Effects and Dependent Types"  
+   by Edwin Brady
+
+- "C-SHORe: A Collapsible Approach to Verifying Higher-Order Programs"  
+  by Christopher Broadbent, Arnaud Carayol, Matthew Hague and Olivier Serre
+
+- "A Practical Theory of Language-Integrated Query"  
+  by James Cheney, Sam Lindley and Philip Wadler
+
+- "The Bedrock Structured Programming System: Combining Generative Metaprogramming and Hoare Logic in an Extensible Program Verifier"  
+  by Adam Chlipala
+
+- "Modular Monadic Meta-Theory"  
+  by Benjamin Delaware, Steven Keuchel, Tom Schrijvers and Bruno Oliveira
+
+- "Hoare-Style Reasoning with (Algebraic) Continuations"  
+  by Germán Andrés Delbianco and Aleksandar Nanevski
+
+- "Typed Syntactic Meta-programming"  
+  by Dominique Devriese and Frank Piessens
+
+- "Fun with Semirings" [Functional Pearl]  
+  by Stephen Dolan
+
+- "Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism"  
+  by Joshua Dunfield and Neelakantan R. Krishnaswami
+
+- "Calculating Threesomes, with Blame"  
+  by Ronald Garcia
+
+- "Structural Recursion for Querying Ordered Graphs"  
+  by Soichiro Hidaka, Kazuyuki Asada, Zhenjiang Hu, Hiroyuki Kato and Keisuke Nakano
+
+- "Unifying Structured Recursion Schemes"  
+  by Ralf Hinze, Nicolas Wu and Jeremy Gibbons
+
+- "Testing Noninterference, Quickly"  
+  by Catalin Hritcu, John Hughes, Benjamin C. Pierce, Antal Spector-Zabusky, Dimitrios Vytiniotis, Arthur Azevedo de Amorim and Leonidas Lampropoulos
+
+- "Functional Reactive Programming with Liveness Guarantees"  
+   by Alan Jeffrey
+
+- "Correctly Optimizing Abstract Abstract Machines"  
+  by J. Ian Johnson, Nicholas Labich, Matthew Might and David Van Horn
+
+- "Handlers in Action"  
+  by Ohad Kammar, Sam Lindley and Nicolas Oury
+
+- "A Nanopass Framework for Commercial Compiler Development" [Experience Report]  
+  by Andrew Keep and R Kent Dybvig
+
+- "Higher-Order Functional Reactive Programming without Spacetime Leaks"  
+  by Neelakantan Krishnaswami
+
+- "Modular and Automated Type-Soundness Verification for Language Extensions"  
+  by Florian Lorenzen and Sebastian Erdweg
+
+- "Exploiting Vector Instructions with Generalized Stream Fusion"  
+  by Geoffrey Mainland, Roman Leshchinskiy and Simon Peyton Jones
+
+- "Functional Geometry and the «Traité de Lutherie»" [Experience Report]  
+  by Harry Mairson
+
+- "Optimising Purely Functional GPU Programs"  
+  by Trevor L. McDonell, Manuel Chakravarty, Gabriele Keller and Ben Lippmeier
+
+- "A Short Cut to Parallelization Theorems"  
+  by Akimasa Morihata
+
+- "Functional Programming of mHealth Applications" [Experience Report]  
+  by Christian Petersen, Matthias Gorges, Dustin Dunsmuir, Mark Ansermino and Guy Dumont
+
+- "Automatic SIMD Vectorization for Haskell"  
+  by Leaf Petersen, Dominic Orchard and Neal Glew
+
+- "Programming with Permissions in Mezzo"  
+  by  Francois Pottier and Jonathan Protzenko
+
+- "Correctness of an STM Haskell Implementation"  
+  by Manfred Schmidt-Schauss and David Sabel
+
+- "The Constrained-Monad Problem"  
+  by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill
+
+- "Applying Random Testing to a Base Type Environment" [Experience Report]  
+  by Vincent St-Amour and Neil Toronto
+
+- "Simple and Compositional Reification of Monadic Embedded Languages" [Functional Pearl]  
+  by Josef Svenningsson and Bo Joel Svensson
+
+- "Verified Decision Procedures for MSO on Words Based on Derivatives of Regular Expressions" [Functional Pearl]  
+  by Dmitriy Traytel and Tobias Nipkow
+
+- "Unifying Refinement and Hoare-Style Reasoning in a Logic for Higher-Order Concurrency"  
+  by Aaron Turon, Derek Dreyer and Lars Birkedal
+
+- "Towards Dependently Typed Haskell: System FC with Kind Equality"  
+  by Stephanie Weirich, Justin Hsu and Richard A. Eisenberg
+
+- "Mtac: A Monad for Typed Tactic Programming in Coq"  
+  by Beta Ziliani, Derek Dreyer, Neelakantan Krishnaswami, Aleksandar Nanevski and Viktor Vafeiadis
