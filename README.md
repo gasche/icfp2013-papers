@@ -102,21 +102,29 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by J. Ian Johnson, Nicholas Labich, Matthew Might and David Van Horn
 
 - "Handlers in Action"  
+  ([paper](http://homepages.inf.ed.ac.uk/slindley/papers/handlers-draft-march2013.pdf)),  
   by Ohad Kammar, Sam Lindley and Nicolas Oury
 
 - "A Nanopass Framework for Commercial Compiler Development" [Experience Report]  
+  (no preprint available),  
   by Andrew Keep and R Kent Dybvig
 
 - "Higher-Order Functional Reactive Programming without Spacetime Leaks"  
+  ([paper](http://www.mpi-sws.org/~neelk/simple-frp.pdf))
+  ([long version](http://www.mpi-sws.org/~neelk/simple-frp-techreport.pdf))
+  ([implementation (.tgz)](http://www.mpi-sws.org/~neelk/adjs-0.1.tgz)),  
   by Neelakantan Krishnaswami
 
 - "Modular and Automated Type-Soundness Verification for Language Extensions"  
+  ([paper](http://erdweg.org/publications/soundext-icfp13.pdf)),  
   by Florian Lorenzen and Sebastian Erdweg
 
 - "Exploiting Vector Instructions with Generalized Stream Fusion"  
+  ([paper](http://research.microsoft.com/en-us/um/people/simonpj/papers/ndp/haskell-beats-C.pdf)),  
   by Geoffrey Mainland, Roman Leshchinskiy and Simon Peyton Jones
 
 - "Functional Geometry and the «Traité de Lutherie»" [Experience Report]  
+  (no preprint available),  
   by Harry Mairson
 
 - "Optimising Purely Functional GPU Programs"  
