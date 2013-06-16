@@ -106,7 +106,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Ohad Kammar, Sam Lindley and Nicolas Oury
 
 - "A Nanopass Framework for Commercial Compiler Development" [Experience Report]  
-  (no preprint available),  
+  (no preprint found),  
   by Andrew Keep and R Kent Dybvig
 
 - "Higher-Order Functional Reactive Programming without Spacetime Leaks"  
@@ -124,7 +124,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Geoffrey Mainland, Roman Leshchinskiy and Simon Peyton Jones
 
 - "Functional Geometry and the «Traité de Lutherie»" [Experience Report]  
-  (no preprint available),  
+  (no preprint found),  
   by Harry Mairson
 
 - "Optimising Purely Functional GPU Programs"  
@@ -133,15 +133,15 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Trevor L. McDonell, Manuel Chakravarty, Gabriele Keller and Ben Lippmeier
 
 - "A Short Cut to Parallelization Theorems"  
-  (no preprint available),  
+  (no preprint found),  
   by Akimasa Morihata
 
 - "Functional Programming of mHealth Applications" [Experience Report]  
-  (no preprint available),  
+  (no preprint found),  
   by Christian Petersen, Matthias Gorges, Dustin Dunsmuir, Mark Ansermino and Guy Dumont
 
 - "Automatic SIMD Vectorization for Haskell"  
-  (no preprint available),  
+  (no preprint found),  
   by Leaf Petersen, Dominic Orchard and Neal Glew
 
 - "Programming with Permissions in Mezzo"  
