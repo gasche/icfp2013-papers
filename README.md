@@ -65,21 +65,30 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Dominique Devriese and Frank Piessens
 
 - "Fun with Semirings" [Functional Pearl]  
+  (no preprint found),  
   by Stephen Dolan
 
 - "Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism"  
+  ([paper](http://www.cs.cmu.edu/~joshuad/papers/bidir/Dunfield13_bidir_submitted.pdf))
+  ([lemma and proofs](http://www.cs.cmu.edu/~joshuad/papers/bidir/Dunfield13_bidir_submitted_proofs.pdf))
+  ([webpage](http://www.cs.cmu.edu/~joshuad/papers/bidir/)),  
   by Joshua Dunfield and Neelakantan R. Krishnaswami
 
 - "Calculating Threesomes, with Blame"  
+  (no preprint found),  
   by Ronald Garcia
 
 - "Structural Recursion for Querying Ordered Graphs"  
+  (no preprint found),  
   by Soichiro Hidaka, Kazuyuki Asada, Zhenjiang Hu, Hiroyuki Kato and Keisuke Nakano
 
 - "Unifying Structured Recursion Schemes"  
+  ([paper](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/urs.pdf)),  
   by Ralf Hinze, Nicolas Wu and Jeremy Gibbons
 
 - "Testing Noninterference, Quickly"  
+  ([paper](http://research.microsoft.com/en-us/people/dimitris/safeqc-picopaper.pdf))
+  ([long version](http://www.crash-safe.org/sites/default/files/testing-noninterference-draft-full_0.pdf)),  
   by Catalin Hritcu, John Hughes, Benjamin C. Pierce, Antal Spector-Zabusky, Dimitrios Vytiniotis, Arthur Azevedo de Amorim and Leonidas Lampropoulos
 
 - "Functional Reactive Programming with Liveness Guarantees"  
