@@ -32,7 +32,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Jean-Philippe Bernardy and Guilhem Moulin
 
 - "Programming and Reasoning with Algebraic Effects and Dependent Types"   
-  ([paper](http://www.cs.st-andrews.ac.uk/~eb/drafts/effects.pdf))
+  ([paper](http://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf))
   ([webpage](http://edwinb.wordpress.com/2013/03/28/programming-and-reasoning-with-algebraic-effects-and-dependent-types/)),  
    by Edwin Brady
 
