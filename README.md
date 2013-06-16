@@ -92,9 +92,13 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Catalin Hritcu, John Hughes, Benjamin C. Pierce, Antal Spector-Zabusky, Dimitrios Vytiniotis, Arthur Azevedo de Amorim and Leonidas Lampropoulos
 
 - "Functional Reactive Programming with Liveness Guarantees"  
+  ([paper](http://ect.bell-labs.com/who/ajeffrey/papers/icfp13.pdf)),  
    by Alan Jeffrey
 
 - "Correctly Optimizing Abstract Abstract Machines"  
+  ([paper](http://www.ccs.neu.edu/home/ianj/coaam-draft.pdf))
+  ([arxiv](http://arxiv.org/abs/1211.3722))
+  ([implementation and updated paper](https://github.com/dvanhorn/oaam)),  
   by J. Ian Johnson, Nicholas Labich, Matthew Might and David Van Horn
 
 - "Handlers in Action"  
