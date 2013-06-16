@@ -41,7 +41,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Christopher Broadbent, Arnaud Carayol, Matthew Hague and Olivier Serre
 
 - "A Practical Theory of Language-Integrated Query"   
-  ([paper](http://homepages.inf.ed.ac.uk/jcheney/linq/linq.pdf))
+  ([paper](http://homepages.inf.ed.ac.uk/jcheney/linq/essence-linq.pdf))
   ([webpage](http://homepages.inf.ed.ac.uk/jcheney/linq/)),  
   by James Cheney, Sam Lindley and Philip Wadler
 
