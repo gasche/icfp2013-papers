@@ -125,18 +125,25 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Trevor L. McDonell, Manuel Chakravarty, Gabriele Keller and Ben Lippmeier
 
 - "A Short Cut to Parallelization Theorems"  
+  (no preprint available),  
   by Akimasa Morihata
 
 - "Functional Programming of mHealth Applications" [Experience Report]  
+  (no preprint available),  
   by Christian Petersen, Matthias Gorges, Dustin Dunsmuir, Mark Ansermino and Guy Dumont
 
 - "Automatic SIMD Vectorization for Haskell"  
+  (no preprint available),  
   by Leaf Petersen, Dominic Orchard and Neal Glew
 
 - "Programming with Permissions in Mezzo"  
+  ([paper](http://gallium.inria.fr/~fpottier/publis/pottier-protzenko-mezzo.pdf))
+  ([long version](http://gallium.inria.fr/~fpottier/publis/mezzo-icfp2013-long.pdf))
+  ([webpage](http://gallium.inria.fr/~protzenk/mezzo-lang/)),  
   by  Francois Pottier and Jonathan Protzenko
 
 - "Correctness of an STM Haskell Implementation"  
+  ([long version](http://www.ki.informatik.uni-frankfurt.de/papers/frank/frank50v2.pdf)),  
   by Manfred Schmidt-Schauss and David Sabel
 
 - "The Constrained-Monad Problem"  
