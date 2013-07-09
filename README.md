@@ -160,7 +160,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Neil Sculthorpe, Jan Bracker, George Giorgidze and Andy Gill
 
 - "Applying Random Testing to a Base Type Environment" [Experience Report]   
-  (no preprint found),  
+  ([paper](http://www.ccs.neu.edu/home/stamourv/papers/random-testing-base-type-environment.pdf)),  
   by Vincent St-Amour and Neil Toronto
 
 - "Simple and Compositional Reification of Monadic Embedded Languages" [Functional Pearl]   
