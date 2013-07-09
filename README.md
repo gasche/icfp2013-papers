@@ -164,7 +164,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Vincent St-Amour and Neil Toronto
 
 - "Simple and Compositional Reification of Monadic Embedded Languages" [Functional Pearl]   
-  (no preprint found),  
+  ([paper](http://www.cse.chalmers.se/~joels/writing/bb.pdf)),  
   by Josef Svenningsson and Bo Joel Svensson
 
 - "Verified Decision Procedures for MSO on Words Based on Derivatives of Regular Expressions" [Functional Pearl]   
