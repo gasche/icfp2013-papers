@@ -1,7 +1,7 @@
 ICFP is the [International Conference on Functional Programming](http://icfpconference.org/).
 The 2013 edition will take place in Boston, from September 25 to September 27.
 
-The list of accepted papers was published [here](http://icfpconference.org/icfp2013/accepted.html). The present page tries to gather preprint links and complementary information; please do not hesitate to submit issues or pull requests.
+The list of accepted papers was published [here](http://icfpconference.org/icfp2013/accepted.html). The present page tries to gather preprint links and complementary information; please do not hesitate to submit issues or pull requests. Patch authors: please pay attention to the two non-erasable whitespaces required to add a line break after each link.
 
 (See [here](https://github.com/technogeeky/icfp12-paper-links) for a similar page for ICFP'12)
 
