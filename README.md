@@ -61,7 +61,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Germán Andrés Delbianco and Aleksandar Nanevski
 
 - "Typed Syntactic Meta-programming"   
-  (no preprint found),  
+  ([paper](http://people.cs.kuleuven.be/dominique.devriese/icfp002-devriese-authorversion.pdf)),  
   by Dominique Devriese and Frank Piessens
 
 - "Fun with Semirings" [Functional Pearl]   
