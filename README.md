@@ -168,8 +168,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Josef Svenningsson and Bo Joel Svensson
 
 - "Verified Decision Procedures for MSO on Words Based on Derivatives of Regular Expressions" [Functional Pearl]   
-  ([paper](http://home.in.tum.de/~traytel/papers/mso/mso.pdf))
-  ([webpage](http://home.in.tum.de/~traytel/papers/mso/index.html)),  
+  ([paper](http://home.in.tum.de/~traytel/papers/icfp13-mso/mso.pdf))
+  ([webpage](http://home.in.tum.de/~traytel/papers/icfp13-mso/index.html)),  
   by Dmitriy Traytel and Tobias Nipkow
 
 - "Unifying Refinement and Hoare-Style Reasoning in a Logic for Higher-Order Concurrency"   
