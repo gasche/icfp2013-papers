@@ -65,7 +65,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Dominique Devriese and Frank Piessens
 
 - "Fun with Semirings" [Functional Pearl]   
-  (no preprint found),  
+  ([paper](http://www.cl.cam.ac.uk/~sd601/papers/semirings.pdf)),  
   by Stephen Dolan
 
 - "Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism"   
