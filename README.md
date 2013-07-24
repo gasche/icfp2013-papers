@@ -141,7 +141,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Christian Petersen, Matthias Gorges, Dustin Dunsmuir, Mark Ansermino and Guy Dumont
 
 - "Automatic SIMD Vectorization for Haskell"   
-  (no preprint found),  
+  ([paper](http://www.leafpetersen.com/leaf/publications/icfp2013/vectorization-haskell.pdf)),  
   by Leaf Petersen, Dominic Orchard and Neal Glew
 
 - "Programming with Permissions in Mezzo"   
