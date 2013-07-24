@@ -182,6 +182,6 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Stephanie Weirich, Justin Hsu and Richard A. Eisenberg
 
 - "Mtac: A Monad for Typed Tactic Programming in Coq"   
-  ([paper](http://www.mpi-sws.org/~beta/mtac/mtac.pdf))
+  ([paper](http://plv.mpi-sws.org/mtac/mtac-1.0.pdf))
   ([webpage](http://www.mpi-sws.org/~beta/mtac/)),  
   by Beta Ziliani, Derek Dreyer, Neelakantan Krishnaswami, Aleksandar Nanevski and Viktor Vafeiadis
