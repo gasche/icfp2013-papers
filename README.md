@@ -5,6 +5,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
 
 (See [here](https://github.com/technogeeky/icfp12-paper-links) for a similar page for ICFP'12)
 
+## ICFP
+
 - "Wellfounded Recursion with Copatterns: A Unified Approach to Termination and Productivity"   
   ([paper](http://www.cs.mcgill.ca/~bpientka/papers/icfp13.pdf))
   ([long version](http://www.tcs.ifi.lmu.de/~abel/icfp13-long.pdf)),  
@@ -185,3 +187,64 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   ([paper](http://plv.mpi-sws.org/mtac/mtac-1.0.pdf))
   ([webpage](http://www.mpi-sws.org/~beta/mtac/)),  
   by Beta Ziliani, Derek Dreyer, Neelakantan Krishnaswami, Aleksandar Nanevski and Viktor Vafeiadis
+
+## Haskell Symposium
+
+List of accepted papers is available [here](http://www.haskell.org/haskell-symposium/2013/).
+
+- "Adding Structure to Monoids"    
+  (no preprint found),    
+  by Mario Blažević.
+
+- "Causality of optimized Haskell: What is burning our cycles?"    
+  (no preprint found),    
+  by Peter Wortmann and David Duke.
+
+- "Data Flow Fusion with Series Expressions in Haskell"    
+  ([paper](http://www.cse.unsw.edu.au/~chak/papers/flow-fusion.pdf))
+  ([webpage](http://www.cse.unsw.edu.au/~chak/papers/BCKR13.html)),    
+  by Ben Lippmeier, Manuel Chakravarty, Gabriele Keller and Amos Robinson.
+
+- "An EDSL approach to High Performance Haskell programming"    
+  ([paper](https://github.com/josefs/meta-paper/blob/master/paper.md)),    
+  by Johan Ankner and Josef Svenningsson.
+
+- "Extensible Effects: An Alternative to Monad Transformers"    
+  ([paper](http://www.cs.indiana.edu/~sabry/papers/exteff.pdf)),    
+  by Oleg Kiselyov, Amr Sabry and Cameron Swords.
+
+- "Hasochism: The Pleasure and Pain of Dependently Typed Haskell Programming"    
+  ([paper](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)),    
+  by Sam Lindley and Conor McBride.
+
+- "The Intel Labs Haskell Research Compiler"    
+  (no preprint found)
+  ([webpage](http://www.leafpetersen.com/leaf/publications.htm)),    
+  by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson.
+
+- "Maintaining Verified Software"    
+  (no preprint found),    
+  by Joe Leslie-Hurd.
+
+- "Mio: A High-Performance Multicore IO Manager for GHC"    
+  (no preprint found)
+  ([code](https://github.com/AndreasVoellmy/Threadscope-mio)),    
+  by Andreas Voellmy, Junchang Wang, Paul Hudak and Kazuhiko Yamamoto.
+
+- "Names For Free — Polymorphic Views of Names and Binders"    
+  ([paper](http://www.cse.chalmers.se/~bernardy/NamesForFree.pdf)),    
+  by Jean-Philippe Bernardy and Nicolas Pouillard.
+
+- "Splittable Pseudorandom Number Generators using Cryptographic Hashing"    
+  (no preprint found),    
+  by Koen Claessen and Michał Pałka.
+
+- "Symmetric Functional Reactive Programming"    
+  (no preprint found)
+  ([code](https://github.com/cwi-swat/symmetric-frp)),    
+  by Atze van der Ploeg.
+
+- "Understanding Idiomatic Traversals Backwards and Forwards"    
+  ([paper](http://www.iai.uni-bonn.de/~jv/uitbaf.pdf)),    
+  by Richard Bird, Jeremy Gibbons, Stefan Mehner, Tom Schrijvers and Janis
+  Voigtländer.
