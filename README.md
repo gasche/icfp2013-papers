@@ -139,7 +139,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Akimasa Morihata
 
 - "Functional Programming of mHealth Applications" [Experience Report]   
-  (no preprint found),  
+  ([paper](http://ecem.ece.ubc.ca/~cpetersen/lambdanative_icfp13.pdf))
+  ([implementation](https://github.com/part-cw/lambdanative)),  
   by Christian Petersen, Matthias Gorges, Dustin Dunsmuir, Mark Ansermino and Guy Dumont
 
 - "Automatic SIMD Vectorization for Haskell"   
