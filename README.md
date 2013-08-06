@@ -194,7 +194,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
 List of accepted papers is available [here](http://www.haskell.org/haskell-symposium/2013/).
 
 - "Adding Structure to Monoids"    
-  (no preprint found),    
+  ([paper](https://github.com/blamario/monoid-subclasses/wiki/Files/HaskellSymposium2013.pdf)),  
   by Mario Blažević.
 
 - "Causality of optimized Haskell: What is burning our cycles?"    
