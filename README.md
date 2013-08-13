@@ -228,7 +228,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Joe Leslie-Hurd.
 
 - "Mio: A High-Performance Multicore IO Manager for GHC"    
-  (no preprint found)
+  ([paper](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf))
   ([code](https://github.com/AndreasVoellmy/Threadscope-mio)),    
   by Andreas Voellmy, Junchang Wang, Paul Hudak and Kazuhiko Yamamoto.
 
