@@ -48,7 +48,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by James Cheney, Sam Lindley and Philip Wadler
 
 - "The Bedrock Structured Programming System: Combining Generative Metaprogramming and Hoare Logic in an Extensible Program Verifier"   
-  (no preprint found)
+  ([paper](http://adam.chlipala.net/papers/BedrockICFP13/BedrockICFP13.pdf))
   ([webpage](http://adam.chlipala.net/papers/BedrockICFP13/)),  
   by Adam Chlipala
 
