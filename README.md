@@ -48,7 +48,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by James Cheney, Sam Lindley and Philip Wadler
 
 - "The Bedrock Structured Programming System: Combining Generative Metaprogramming and Hoare Logic in an Extensible Program Verifier"   
-  (no preprint found)
+  ([paper](http://adam.chlipala.net/papers/BedrockICFP13/BedrockICFP13.pdf))
   ([webpage](http://adam.chlipala.net/papers/BedrockICFP13/)),  
   by Adam Chlipala
 
@@ -81,7 +81,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Ronald Garcia
 
 - "Structural Recursion for Querying Ordered Graphs"   
-  (no preprint found),  
+  ([paper](http://www.biglab.org/pdf/icfp13.pdf)),  
   by Soichiro Hidaka, Kazuyuki Asada, Zhenjiang Hu, Hiroyuki Kato and Keisuke Nakano
 
 - "Unifying Structured Recursion Schemes"   
@@ -219,7 +219,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Sam Lindley and Conor McBride.
 
 - "The Intel Labs Haskell Research Compiler"    
-  (no preprint found)
+  ([paper](http://www.leafpetersen.com/leaf/publications/hs2013/hrc-paper.pdf))
   ([webpage](http://www.leafpetersen.com/leaf/publications.htm)),    
   by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson.
 
