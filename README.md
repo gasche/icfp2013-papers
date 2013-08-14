@@ -22,7 +22,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Emil Axelsson and Koen Claessen
 
 - "Weak Optimality, and the Meaning of Sharing"   
-  (no preprint found),  
+  ([paper](http://gallium.inria.fr/~balabons/Recherche/Balabonski-ICFP13.pdf)),  
   by Thibaut Balabonski
 
 - "Efficient Divide-and-Conquer Parsing of Practical Context-Free Languages"   
