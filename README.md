@@ -219,7 +219,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Sam Lindley and Conor McBride.
 
 - "The Intel Labs Haskell Research Compiler"    
-  (no preprint found)
+  ([paper](http://www.leafpetersen.com/leaf/publications/hs2013/hrc-paper.pdf))
   ([webpage](http://www.leafpetersen.com/leaf/publications.htm)),    
   by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson.
 
