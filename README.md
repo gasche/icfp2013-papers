@@ -81,7 +81,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Ronald Garcia
 
 - "Structural Recursion for Querying Ordered Graphs"   
-  (no preprint found),  
+  ([paper](http://www.biglab.org/pdf/icfp13.pdf)),  
   by Soichiro Hidaka, Kazuyuki Asada, Zhenjiang Hu, Hiroyuki Kato and Keisuke Nakano
 
 - "Unifying Structured Recursion Schemes"   
