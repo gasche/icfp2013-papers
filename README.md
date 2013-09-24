@@ -240,8 +240,8 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   (no preprint found),    
   by Koen Claessen and Michał Pałka.
 
-- "Symmetric Functional Reactive Programming"    
-  (no preprint found)
+- "Monadic Functional Reactive Programming"    
+  ([paper](http://homepages.cwi.nl/~ploeg/papers/monfrp.pdf))
   ([code](https://github.com/cwi-swat/symmetric-frp)),    
   by Atze van der Ploeg.
 
