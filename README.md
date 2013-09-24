@@ -197,8 +197,8 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   ([paper](https://github.com/blamario/monoid-subclasses/wiki/Files/HaskellSymposium2013.pdf)),  
   by Mario Blažević.
 
-- "Causality of optimized Haskell: What is burning our cycles?"
-  ([paper] (http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),
+- "Causality of optimized Haskell: What is burning our cycles?"    
+  ([paper] (http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),  
   by Peter Wortmann and David Duke.
 
 - "Data Flow Fusion with Series Expressions in Haskell"    
