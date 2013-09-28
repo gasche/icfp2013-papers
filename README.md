@@ -118,7 +118,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Neelakantan Krishnaswami
 
 - "Modular and Automated Type-Soundness Verification for Language Extensions"   
-  ([paper](http://erdweg.org/publications/soundext-icfp13.pdf)),  
+  ([paper](http://erdweg.org/publications/soundext-icfp13.pdf))
+  ([code](http://sugarj.org/fomega)),  
   by Florian Lorenzen and Sebastian Erdweg
 
 - "Exploiting Vector Instructions with Generalized Stream Fusion"   
