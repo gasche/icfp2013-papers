@@ -97,8 +97,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   ([paper](http://ect.bell-labs.com/who/ajeffrey/papers/icfp13.pdf)),  
    by Alan Jeffrey
 
-- "Correctly Optimizing Abstract Abstract Machines"   
-  ([paper](http://www.ccs.neu.edu/home/ianj/coaam-draft.pdf))
+- "Optimizing Abstract Abstract Machines"   
+  ([paper](http://arxiv.org/pdf/1211.3722.pdf))
   ([arxiv](http://arxiv.org/abs/1211.3722))
   ([implementation and updated paper](https://github.com/dvanhorn/oaam)),  
   by J. Ian Johnson, Nicholas Labich, Matthew Might and David Van Horn
