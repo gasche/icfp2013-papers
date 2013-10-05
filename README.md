@@ -58,7 +58,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Benjamin Delaware, Steven Keuchel, Tom Schrijvers and Bruno Oliveira
 
 - "Hoare-Style Reasoning with (Algebraic) Continuations"   
-  ([paper](http://software.imdea.org/~germand/pubs/httcc-ext.pdf))
+  ([paper](http://software.imdea.org/%7Egermand/pubs/icfp13.pdf))
   ([webpage](http://software.imdea.org/~germand/HTTcc/)),  
   by Germán Andrés Delbianco and Aleksandar Nanevski
 
