@@ -199,7 +199,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Mario Blažević.
 
 - "Causality of optimized Haskell: What is burning our cycles?"    
-  ([paper] (http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),  
+  ([paper](http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),  
   by Peter Wortmann and David Duke.
 
 - "Data Flow Fusion with Series Expressions in Haskell"    
@@ -225,7 +225,8 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson.
 
 - "Maintaining Verified Software"    
-  (no preprint found),    
+  ([paper](http://www.gilith.com/research/papers/haskell.pdf))
+  ([slides](http://www.gilith.com/research/talks/haskell2013.pdf)),    
   by Joe Leslie-Hurd.
 
 - "Mio: A High-Performance Multicore IO Manager for GHC"    
@@ -238,7 +239,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Jean-Philippe Bernardy and Nicolas Pouillard.
 
 - "Splittable Pseudorandom Number Generators using Cryptographic Hashing"    
-  (no preprint found),    
+  ([paper](http://publications.lib.chalmers.se/records/fulltext/183348/local_183348.pdf)),    
   by Koen Claessen and Michał Pałka.
 
 - "Monadic Functional Reactive Programming"    
