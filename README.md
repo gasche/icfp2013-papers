@@ -58,7 +58,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Benjamin Delaware, Steven Keuchel, Tom Schrijvers and Bruno Oliveira
 
 - "Hoare-Style Reasoning with (Algebraic) Continuations"   
-  ([paper](http://software.imdea.org/~germand/pubs/httcc-ext.pdf))
+  ([paper](http://software.imdea.org/%7Egermand/pubs/icfp13.pdf))
   ([webpage](http://software.imdea.org/~germand/HTTcc/)),  
   by Germán Andrés Delbianco and Aleksandar Nanevski
 
@@ -97,8 +97,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   ([paper](http://ect.bell-labs.com/who/ajeffrey/papers/icfp13.pdf)),  
    by Alan Jeffrey
 
-- "Correctly Optimizing Abstract Abstract Machines"   
-  ([paper](http://www.ccs.neu.edu/home/ianj/coaam-draft.pdf))
+- "Optimizing Abstract Abstract Machines"   
+  ([paper](http://arxiv.org/pdf/1211.3722.pdf))
   ([arxiv](http://arxiv.org/abs/1211.3722))
   ([implementation and updated paper](https://github.com/dvanhorn/oaam)),  
   by J. Ian Johnson, Nicholas Labich, Matthew Might and David Van Horn
@@ -108,7 +108,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Ohad Kammar, Sam Lindley and Nicolas Oury
 
 - "A Nanopass Framework for Commercial Compiler Development" [Experience Report]   
-  (no preprint found),  
+  (no preprint found) ([dissertation](http://gradworks.umi.com/35/60/3560746.html)),  
   by Andrew Keep and R Kent Dybvig
 
 - "Higher-Order Functional Reactive Programming without Spacetime Leaks"   
@@ -118,7 +118,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Neelakantan Krishnaswami
 
 - "Modular and Automated Type-Soundness Verification for Language Extensions"   
-  ([paper](http://erdweg.org/publications/soundext-icfp13.pdf)),  
+  ([paper](http://erdweg.org/publications/soundext-icfp13.pdf))
+  ([code](http://sugarj.org/fomega)),  
   by Florian Lorenzen and Sebastian Erdweg
 
 - "Exploiting Vector Instructions with Generalized Stream Fusion"   
@@ -198,7 +199,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Mario Blažević.
 
 - "Causality of optimized Haskell: What is burning our cycles?"    
-  ([paper] (http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),  
+  ([paper](http://eprints.whiterose.ac.uk/76448/7/Paper_with_coversheet.pdf)),  
   by Peter Wortmann and David Duke.
 
 - "Data Flow Fusion with Series Expressions in Haskell"    
@@ -224,7 +225,8 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Hai Liu, Neal Glew, Leaf Petersen and Todd Anderson.
 
 - "Maintaining Verified Software"    
-  (no preprint found),    
+  ([paper](http://www.gilith.com/research/papers/haskell.pdf))
+  ([slides](http://www.gilith.com/research/talks/haskell2013.pdf)),    
   by Joe Leslie-Hurd.
 
 - "Mio: A High-Performance Multicore IO Manager for GHC"    
@@ -237,7 +239,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   by Jean-Philippe Bernardy and Nicolas Pouillard.
 
 - "Splittable Pseudorandom Number Generators using Cryptographic Hashing"    
-  (no preprint found),    
+  ([paper](http://publications.lib.chalmers.se/records/fulltext/183348/local_183348.pdf)),    
   by Koen Claessen and Michał Pałka.
 
 - "Monadic Functional Reactive Programming"    
