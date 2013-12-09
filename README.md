@@ -108,7 +108,8 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Ohad Kammar, Sam Lindley and Nicolas Oury
 
 - "A Nanopass Framework for Commercial Compiler Development" [Experience Report]   
-  (no preprint found) ([dissertation](http://gradworks.umi.com/35/60/3560746.html)),  
+  ([paper](http://www.cs.indiana.edu/~dyb/pubs/commercial-nanopass.pdf))
+  ([dissertation](http://gradworks.umi.com/35/60/3560746.html)),  
   by Andrew Keep and R Kent Dybvig
 
 - "Higher-Order Functional Reactive Programming without Spacetime Leaks"   
