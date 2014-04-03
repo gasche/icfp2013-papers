@@ -128,7 +128,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Geoffrey Mainland, Roman Leshchinskiy and Simon Peyton Jones
 
 - "Functional Geometry and the «Traité de Lutherie»" [Experience Report]   
-  (no preprint found),  
+  ([paper](http://www.cs.brandeis.edu/~mairson/Papers/ICFP062-mairson.pdf)),  
   by Harry Mairson
 
 - "Optimising Purely Functional GPU Programs"   
