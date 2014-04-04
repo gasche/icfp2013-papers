@@ -18,7 +18,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   by Robert Atkey and Conor McBride
 
 - "Using Circular Programs for Higher-Order Syntax [Functional Pearl]"   
-  ([paper](http://www.cse.chalmers.se/~emax/documents/axelsson2013using_DRAFT.pdf)),  
+  ([paper](http://www.cse.chalmers.se/~emax/documents/axelsson2013using.pdf)),  
   by Emil Axelsson and Koen Claessen
 
 - "Weak Optimality, and the Meaning of Sharing"   
@@ -127,7 +127,7 @@ The list of accepted papers was published [here](http://icfpconference.org/icfp2
   ([paper](http://research.microsoft.com/en-us/um/people/simonpj/papers/ndp/haskell-beats-C.pdf)),  
   by Geoffrey Mainland, Roman Leshchinskiy and Simon Peyton Jones
 
-- "Functional Geometry and the «Traité de Lutherie»" [Experience Report]   
+- "Functional Geometry and the «Traité de Lutherie»" [Functional Pearl]   
   ([paper](http://www.cs.brandeis.edu/~mairson/Papers/ICFP062-mairson.pdf)),  
   by Harry Mairson
 
