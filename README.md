@@ -252,3 +252,7 @@ List of accepted papers is available [here](http://www.haskell.org/haskell-sympo
   ([paper](http://www.iai.uni-bonn.de/~jv/uitbaf.pdf)),    
   by Richard Bird, Jeremy Gibbons, Stefan Mehner, Tom Schrijvers and Janis
   Voigtländer.
+
+## OCaml Workshop
+
+Papers and slides available [here](http://ocaml.org/meetings/ocaml/2013/program.html).
